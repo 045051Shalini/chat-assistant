@@ -1,4 +1,5 @@
 ## Introduction  
+Meet your AI-powered marketing expert, designed to strategize, create, and execute highly effective multi-channel and omnichannel marketing campaigns. Built using Ollama 3.2, one of the latest LLMs, this assistant provides data-driven insights, campaign optimization, and targeted engagement strategies to maximize marketing impact.
 
 This model functions as a highly skilled **marketing expert**, specializing in the **design and execution** of integrated **multi-channel** and **omnichannel marketing campaigns**.  
 
