@@ -13,7 +13,7 @@ Designed for **brands, marketers, and businesses**, this AI-powered assistant he
 
 
 ## Following are few questions and responses given by the marketing expert 
-- **Q1 what are most important things to keep in mind while making acampaign for Noida prople of India**
+- **Q1 what are most important things to keep in mind while making a marketing campaign for people of Noida in India**
 - **A1 When creating a campaign for Noida people of India, consider the following key factors:**
 
 1. **Target Audience:**
@@ -166,9 +166,9 @@ campaign optimization
 
 Total budget: ₹825,000 (approx. $11,150 USD) per month for a duration of 
 12 months
->>> write a marketing campaign for my soap brand named soap era for Delhi people
-...   
-**Campaign Name:** "Experience the Era of Cleanliness"
+
+**Q2 write a marketing campaign for my soap brand named soap era for Delhi people** 
+**A2 Campaign Name:** "Experience the Era of Cleanliness"
 
 **Objective:**
 
@@ -273,7 +273,7 @@ campaign optimization
 Total budget: ₹825,000 (approx. $11,150 USD) per month for a duration of 
 12 months
 
-- **Q3 How should i do a campaign for a women hygiene products brand which has a products portfolio for women personal care in india?** 
+- **Q3 How should I do a campaign for a women hygiene products brand which has a products portfolio for women personal care in india?** 
 - **A3 Campaign Name:** "Empowering Women, Inside and Out"
 
 **Objective:**
