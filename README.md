@@ -13,8 +13,8 @@ Designed for **brands, marketers, and businesses**, this AI-powered assistant he
 
 
 ## Following are few questions and responses given by the marketing expert 
-- **Q1 what are most important things to keep in mind while making a marketing campaign for people of Noida in India**
-- **A1 When creating a campaign for Noida people of India, consider the following key factors:**
+### Q1 what are most important things to keep in mind while making a marketing campaign for people of Noida in India
+### A1 When creating a campaign for Noida people of India, consider the following key factors:
 
 1. **Target Audience:**
 	* Age: 18-45 years old
