@@ -167,8 +167,8 @@ campaign optimization
 Total budget: ₹825,000 (approx. $11,150 USD) per month for a duration of 
 12 months
 
-**Q2 write a marketing campaign for my soap brand named soap era for Delhi people** 
-**A2 Campaign Name:** "Experience the Era of Cleanliness"
+- **Q2 write a marketing campaign for my soap brand named soap era for Delhi people** 
+- **A2 Campaign Name:** "Experience the Era of Cleanliness"
 
 **Objective:**
 
