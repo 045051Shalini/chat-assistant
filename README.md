@@ -61,7 +61,7 @@ Designed for **brands, marketers, and businesses**, this AI-powered assistant he
 
 Total budget: ₹850,000 (approx. $11,400 USD) per month for a duration of 12 months
 
-### Q2 write a marketing campaign for my soap brand named soap era for Delhi people
+### Q2 Give a marketing campaign for my soap brand named soap era for Delhi people
 ### **A2 Campaign Name:** "Experience the Era of Cleanliness"
 
 **Objective:**
@@ -167,7 +167,7 @@ campaign optimization
 Total budget: ₹825,000 (approx. $11,150 USD) per month for a duration of 
 12 months
 
-### Q2 write a marketing campaign for my soap brand named soap era for Delhi people
+### Q2 How to make a marketing campaign for my soap brand named soap era for Delhi people
 ### **A2 Campaign Name:** "Experience the Era of Cleanliness"
 
 **Objective:**
