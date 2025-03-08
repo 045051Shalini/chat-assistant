@@ -12,7 +12,7 @@ Designed for **brands, marketers, and businesses**, this AI-powered assistant he
 🔗 **Try it now:** [Marketing Expert AI on OpenWebUI](https://openwebui.com/m/cshall822/marketingexpert)  
 
 
-## Questions asked
+## Following are few questions and responses given by the marketing expert 
 - **Q1 what are most important things to keep in mind while making acampaign for Noida prople of India**
 - **A1 When creating a campaign for Noida people of India, consider the following key factors:**
 
