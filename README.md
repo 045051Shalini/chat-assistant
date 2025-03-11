@@ -12,6 +12,8 @@ Designed for **brands, marketers, and businesses**, this AI-powered assistant he
 
 🔗 **Try it now:** [Marketing Expert AI on OpenWebUI](https://openwebui.com/m/cshall822/marketingexpert)  
 
+![ollama modelfile](https://github.com/user-attachments/assets/71946a7b-8012-4f09-be69-e9231d25127b)
+
 
 ## Following are few questions and responses given by the marketing expert 
 ### Q1 what are most important things to keep in mind while making a marketing campaign for people of Noida in India.
