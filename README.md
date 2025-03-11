@@ -12,7 +12,7 @@ Designed for **brands, marketers, and businesses**, this AI-powered assistant he
 
 🔗 **Try it now:** [Marketing Expert AI on OpenWebUI](https://openwebui.com/m/cshall822/marketingexpert)  
 
-![ollama modelfile](https://github.com/user-attachments/assets/71946a7b-8012-4f09-be69-e9231d25127b)
+![ollama modelfile](https://github.com/user-attachments/assets/681bca59-cdbd-44de-8078-df0475405683)
 
 
 ## Following are few questions and responses given by the marketing expert 
